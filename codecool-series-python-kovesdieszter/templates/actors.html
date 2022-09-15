@@ -1,0 +1,17 @@
+{% extends 'layout.html' %}
+
+{% block title %}Actors{% endblock %}
+
+{% block script %}
+<script type="module" src="{{ url_for('static', filename="js/actors.js") }}" defer></script>
+{% endblock %}
+{% block page_title%}Actors{% endblock %}
+
+
+{% block content %}
+     <div class="card" id="data-cards">
+
+     </div>
+
+{% endblock %}
+
