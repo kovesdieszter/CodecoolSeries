@@ -18,7 +18,7 @@
 
 ## Getting Started
 
-- Clone the repository using the command git clone `https://github.com/kovesdieszter/Ask-mate.git`.
+- Clone the repository using the command git clone `https://github.com/kovesdieszter/CodecoolSeries.git`.
 - Install all necessary packages asked by your IDE.
 - Run `server.py`
 - Then type `http://127.0.0.1:5000/actors`.
